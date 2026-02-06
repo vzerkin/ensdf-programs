@@ -1,0 +1,361 @@
+184AU    184HG EC DECAY                2005SA40,1994IB01,1978NE1010NDS    201002
+184AU  H TYP=FUL$AUT=CORAL M. BAGLIN$CIT=NDS 111,275 (2010)$CUT=1-Oct-2009$     
+184AU D  PARENT T: 30.6 S 3 (1972Fi12), 30.9 S 3 (1994Wa23).                    
+184AU2D  32.5 S 10 (1970Ha18); from 5535A(T).  32.0 S 10 (1969Ha03).            
+184AU3D  WEIGHTED AVERAGE: 30.87 S 26.                                          
+184AU c  Others: 1975Ho03, 1971Hu02, 1969Ha03 (observed 157|g and 237|g).       
+184AU c  2005Sa40: mass-separated {+184}Hg source from fragmentation of molten  
+184AU2c  Pb target by 600 MeV or 1 GeV protons; Ge(Li) and Si(Li) detectors,    
+184AU3c  high resolution 180|' magnetic spectrograph; measured E|g, I|g,        
+184AU4c  E(ce), I(ce). Additional sources from {+148}Sm({+40}Ar,X); planar Ge   
+184AU5c  (FWHM=0.9 keV at 122 keV) for E|g|<1 MeV; two HPGe detectors (FWHM     
+184AU6c  |?2.3 keV at 1.3 MeV) for E|g|<1.3 MeV; measured x-|g-t and |g-|g-t    
+184AU7c  events which were sorted to provide prompt-, total- and delayed-       
+184AU8c  coincidence bidimensional matrices (60 ns or 100 ns time windows).     
+184AU2c  Supersedes 2003IbZZ; see also 1994Ib01.                                
+184AU c  1994Ib01: mass separated source from bombardment of {+148}Sm by 185 MeV
+184AU2c  {+40}Ar ions; He-jet transport, iodine aerosol; two HPGe coaxial       
+184AU3c  detectors, one HPGe x-ray detector; measured singles |g and x-ray      
+184AU4c  spectra, |g|g(t), x-|g(t). See also 1994RoZY.                          
+184AU c  1975Ho03: |b strength function deduced from total-absorption |g        
+184AU2c  measurement                                                            
+184AU c  1978Ne10: Mass-separated source; measured E|g, I|g, |g|g coin, |g|g(t) 
+184AU2c  (time resolution 6 ns {I1}).                                           
+184AU c                                                                         
+184AU c  The decay scheme is adopted from 2005Sa40. It differs greatly from     
+184AU2c  that proposed by 1978Ne10. Although E|g and I|g data from 2005Sa40 and 
+184AU3c  1978Ne10 are in satisfactory agreement, there exist a number of        
+184AU4c  transitions with E|g<90 keV which 1978Ne10 could not detect. Also,     
+184AU5c  the lowest energy state reported in 1978Ne10 is actually a 68-keV 2+   
+184AU6c  isomer, not a 3+ g.s., and the presence of a state just 3.4 keV above  
+184AU7c  the isomer was not recognized by 1978Ne10.                             
+184AU cE TI,LOGFT  I(|g+ce) is from intensity imbalance at each level. I(|g+ce) 
+184AU2cE values <10% may not be reliable due to existence of unplaced           
+184AU3cE transitions, several of which are highly converted                     
+184AUxcE (I(|g+ce)(30.3|g)|?6%).                                                
+184AU cG E,RI      From 2005Sa40, except as noted.                              
+184AU cG M         From |a(K)exp values given by 2005Sa40, except as noted.     
+184AU cG MR        From analysis of ce data by 2005Sa40.                        
+184AU cG E(B)      From 1978Ne10.                                               
+184AU cL E         From least-squares fit to E|g.                               
+184AU cL J         From Adopted Levels.                                         
+184AU cL T         From |g|g(t) (1978Ne10), except where noted.                 
+184HG  P 0.0          0+               30.87 S   26             3970      24    
+184AU  N 0.034      3 0.034   3 0.9889  6 1.01122                               
+184AU cN NR        from |S(I(|g+ce) to g.s.)=100, assuming no |e+|b{++} feeding 
+184AU2cN to the g.s. (|DJ=5) or to the 68 or 72 levels (|DJ=2 or 3, |D|p=no).   
+184AU PN                                                                     3  
+184AU  G 29.4      1  1.5     3M1                      47.2   9                 
+184AUS G LC=36.3 7$MC=8.43 15$NC+=2.51 5                                        
+184AUS G NC=2.10 4$OC=0.386 7$PC=0.0260 5                                       
+184AU cG M         |a(L1)exp=38 {I18}, L1:L2=1.0:0.4, |a(M1)exp=8.7 {I2}        
+184AUxcG (2005Sa40).                                                            
+184AU  G 30.3      1  1.7     4M1+E2     0.20    AP    98.1   AP                
+184AUS G LC AP 74.5$MC AP 18.4$NC+ AP 5.31                                      
+184AUS G NC AP 4.53$OC AP 0.764$PC AP 0.0233                                    
+184AU cG M         |a(L1)exp=35 {I10}, |a(L3)exp=21 {I8} (2005Sa40).            
+184AU  G  43.3      3 4.3     6                                                 
+184AU cG           Only weak, mixed electron lines observed (2005Sa40).         
+184AU  G 45.8      1  2.0     3M1(+E2)   0.10    AP    14.54  AP                
+184AUS G LC AP 11.14$MC AP 2.62$NC+ AP 0.777                                    
+184AUS G NC AP 0.652$OC AP 0.1176$PC AP 0.00698                                 
+184AU cG M         |a(L1)exp=13 {I3}, L1:L3|?1.00:0.12 (2005Sa40).              
+184AU  G 110.8     2  5       1(M1)                    5.41                     
+184AUS G KC=4.44 7$LC=0.746 12$MC=0.173 3$NC+=0.0516 8                          
+184AUS G NC=0.0431 7$OC=0.00793 12$PC=0.000535 8                                
+184AU cG M         |a(K)exp=7 {I3} (2005Sa40).                                  
+184AU  G 112.6     2  4       1(M1)                    5.17                     
+184AUS G KC=4.24 7$LC=0.712 11$MC=0.1652 25$NC+=0.0492 8                        
+184AUS G NC=0.0412 7$OC=0.00757 12$PC=0.000511 8                                
+184AU cG M         |a(K)exp=3.6 {I10} (2005Sa40).                               
+184AU  G 176.9      3 12      5                                             B   
+184AU  G 177.3      2 26      4 E1,E2                  0.34   24                
+184AUS G KC=0.16 8$LC=0.14 13$MC=0.04 4$NC+=0.011 10                            
+184AU cG M         |a(K)exp<0.3 (2005Sa40).                                     
+184AU  G 178.1      2 6       2 E1,E2                  0.33   24                
+184AUS G KC=0.15 8$LC=0.13 12$MC=0.03 4$NC+=0.011 10                            
+184AU cG M         |a(K)exp|<0.4 (2005Sa40).                                    
+184AU  G 291.5     2  17      3M1                      0.359                    
+184AUS G KC=0.296 5$LC=0.0488 7$MC=0.01131 16$NC+=0.00337 5                     
+184AUS G NC=0.00282 4$OC=0.000518 8$PC=3.51E-5 5                                
+184AU cG M         |a(K)exp=0.30 {I9}, (|a(L1)exp+|a(L2)exp)=0.05 {I2}          
+184AUxcG (2005Sa40).                                                            
+184AU  G 331.5     2  10      2(M1)                    0.253                    
+184AUS G KC=0.209 3$LC=0.0343 5$MC=0.00795 12$NC+=0.00237 4                     
+184AUS G NC=0.00198 3$OC=0.000364 6$PC=2.47E-5 4                                
+184AU cG M         |a(K)exp=0.32 {I13} (2005Sa40).                              
+184AU  G      392.4 2 110    20                                             B   
+184AU  L 0.0           5+              20.6 S    9                              
+184AU cL T         from Adopted Levels.                                         
+184AU  L 68.46      4  2+              47.6 S    14                          M  
+184AU cL T         from Adopted Levels.                                         
+184AU  G 68.46     4  0.90    7M3                      3.19E3   2.87E+3   23    
+184AUS G LC=2.29E3 4$MC=694 10$NC+=208 3                                        
+184AUS G NC=178 3$OC=29.4 5$PC=0.774 11                                         
+184AU cG TI        from |S(I(|g+ce) to 68 level)=2870 {I230}.                   
+184AU cG RI        from I(|g+ce) and |a.                                        
+184AU cG M         L3/(L1+L2)=1.6 {I4}, L2<<L1 (1990Ed01);                      
+184AU2cG (L1+L2):L3:M:N:O=232 {I35}:397 {I60}:197 {I30}:45 {I7}:18 {I6}         
+184AUxcG (2005Sa40).                                                            
+184AU cG           %I|g=0.0303 {I10} assuming recommended decay scheme          
+184AU2cG normalization.                                                         
+184AU  L 71.87      9 2+,3+                                                     
+184AU  G  3.4       2           (M1)                            1.55E3    16    
+184AU cG TI        from |S(I(|g+ce) to 72 level); no |e+|b{++} expected to      
+184AUxcG level.                                                                 
+184AU cG M         N1 and O conversion lines observed (2005Sa40).               
+184AU  L 86.50      8 (2,3)+                                                    
+184AU  G 18.1      2  2.3     7M1                      198    8                 
+184AUS G LC=152 6$MC=35.6 13$NC+=10.6 4                                         
+184AUS G NC=8.9 4$OC=1.63 6$PC=0.110 4                                          
+184AU cG M         |a(L1)exp=130 {I25}, L1:L2=1.00:0.11 {I1} (2005Sa40).        
+184AU  L 129.13     8 (1,2)+                                                    
+184AU  E                3.8  25   11   7    5.0   3             15        10    
+184AUS E EAV=1271 11$CK=0.610 4$CL=0.1059 7$CM+=0.03387 23                      
+184AU  G 42.7      1  1.9     4M1(+E2)                 1.4E2  13                
+184AUS G LC=1.1E2 10$MC=28 25$NC+=8 7                                           
+184AUS G NC=7 7$OC=1.1 10$PC=0.005 4                                            
+184AU cG M         |a(L1)exp|<22, |a(L3)exp<1.8 (2005Sa40) allows E1 or M1.     
+184AU  G 57.3      2  4       2E2+M1     1.2     AP    40.9   AP                
+184AUS G LC AP 30.7$MC AP 7.91$NC+ AP 2.26                                      
+184AUS G NC AP 1.94$OC AP 0.312$PC AP 0.00181                                   
+184AU cG M         |a(L2)exp|?|a(L3)exp=12 {I6}, L1:L2:L3=1.0:7.2 {I15}:6.9     
+184AUxcG {I15} (2005Sa40).                                                      
+184AU  G 60.6      1  26      4M1                      5.60                     
+184AUS G LC=4.31 7$MC=1.000 15$NC+=0.298 5                                      
+184AUS G NC=0.249 4$OC=0.0458 7$PC=0.00309 5                                    
+184AU cG M         |a(L1)exp=4 {I1}, L1:L2:L3=1.00:0.13 {I3}: <0.04,            
+184AU2cG |a(M1)exp=0.9 {I1} (2005Sa40).                                         
+184AU  L 146.50    12 4+                                                        
+184AU  G 74.5      2  7       4[M1,E2]                 11     8             @   
+184AUS G LC=8 6$MC=2.1 15$NC+=0.6 5                                             
+184AUS G NC=0.5 4$OC=0.08 6$PC=0.0010 8                                         
+184AU cG RI        from |g|g coin; I|g=40 {I4} for doublet (2005Sa40).          
+184AU cG M         |a(L1)exp=2.4 {I4}, M1:M2:M3=1.00:0.21:0.09 (2005Sa40) for   
+184AUxcG doublet.                                                               
+184AU  G  146.5     4 24      8 M1(+E2)                1.8     7                
+184AUS G KC=1.2 9$LC=0.46 13$MC=0.12 4$NC+=0.034 11                             
+184AUS G NC=0.029 10$OC=0.0048 13$PC=0.00014 11                                 
+184AU cG M         |a(K)exp|<3.5, (|a(L1)exp+|a(L2)exp)=0.26 {I10},             
+184AUxcG |a(L3)exp|<0.08 (2005Sa40).                                            
+184AU cG           E|g=146.0 {I3}, I|g=48 {I4}, unplaced |g in 1978Ne10.        
+184AU  L 228.40     7  3-              69 NS      6                             
+184AU cL T         from 157|g-237|g(t) (1994Ib01). Other T{-1/2}:               
+184AU2cL 67 ns {I8} (H. Haas (1978), private communication to authors of        
+184AU3cL 1994Ib01); 36 ns {I6} (1978Ne10).                                      
+184AU  G 81.9      1  60      8E1                      0.670                    
+184AUS G KC=0.529 8$LC=0.1089 16$MC=0.0254 4$NC+=0.00731 11                     
+184AUS G NC=0.00621 9$OC=0.001054 16$PC=4.37E-5 7                               
+184AU cG M         (|a(L1)exp+|a(L2)exp)|<0.3 (2005Sa40).                       
+184AU  G 141.8     1  32      4(E1+M2)   0.39          2.42                     
+184AUS G KC=1.725 25$LC=0.526 8$MC=0.1314 19$NC+=0.0394 6                       
+184AUS G NC=0.0331 5$OC=0.00595 9$PC=0.000346 5                                 
+184AU cG M         |a(K)exp=1.8 {I5}, (|a(L1)exp+|a(L2)exp)=0.45 {I9},          
+184AU2cG |a(L3)exp=0.09 {I4} (2005Sa40). M1+E2 (|d=0.59) also possible, but     
+184AUxcG |D|p=yes from level scheme.                                            
+184AU cG           E|g=141.6 {I3}, I|g=19 {I3} (1978Ne10).                      
+184AU  G 156.5     1  1.02E3 10 E1                     0.1335                   
+184AUS G KC=0.1087 16$LC=0.0191 3$MC=0.00442 7$NC+=0.001288 19                  
+184AUS G NC=0.001088 16$OC=0.000190 3$PC=9.53E-6 14                             
+184AU cG M         |a(K)exp=0.10 {I2}, (|a(L1)exp+|a(L2)exp)=0.012 {I4}         
+184AU2cG (2005Sa40); |a(K)exp|?0.10 (1970FiZZ).                                 
+184AU cG           E|g=156.2 {I2}, I|g=910 {I90} in 1978Ne10.                   
+184AU  G 160.0     1  23      5(E1)                    0.1262                   
+184AUS G KC=0.1028 15$LC=0.0180 3$MC=0.00417 6$NC+=0.001215 18                  
+184AUS G NC=0.001026 15$OC=0.000180 3$PC=9.04E-6 13                             
+184AU cG M         |a(K)exp=0.3 {I2} (2005Sa40).                                
+184AU cG           E|g=159.2 {I4}, I|g=10 {I3} (1978Ne10).                      
+184AU  L 242.87    10  (LE3)+                                                   
+184AU  G 113.7     1  16      3M1                      5.02                     
+184AUS G KC=4.12 6$LC=0.692 10$MC=0.1607 23$NC+=0.0479 7                        
+184AUS G NC=0.0400 6$OC=0.00736 11$PC=0.000497 7                                
+184AU cG M         |a(K)exp=4.6 {I6}, |a(L1)exp=1.0 {I4} (2005Sa40).            
+184AU  L 254.26     7  2-                                                       
+184AU cL           The intensity imbalance of 12% {I7} at this level may arise  
+184AU2cL from an incomplete decay scheme and/or the acute dependence of         
+184AU3cL I(|g+ce) from this level on |d(26|g). %|e+%|b{++}<0.25 is expected for 
+184AU4cL the possible 1U branch to this level, based on log| {If{+1u}t}>8.5.    
+184AU DL                1.1  6    11   6    6.7   3             12        7  1U 
+184AU2DL EAV=1194 11$CK=0.7343 20$CL=0.1325 5$CM+=0.04269 14                    
+184AU  G 25.86     6  19      2M1+E2     0.041   +11-1574     4                 
+184AUS G LC=57 3$MC=13.4 7$NC+=3.96 19                                          
+184AUS G NC=3.32 16$OC=0.60 3$PC=0.0380 6                                       
+184AU cG M         |a(L1)exp=52 {I10}, |a(L2)exp=6.3 {I10}, L2:L3=1.00:0.36     
+184AU2cG {I10}, (M1+M2):M3=1.00:0.04 {I1} (2005Sa40).                           
+184AU  G 182.5     2  6       2E1                      0.0906                   
+184AUS G KC=0.0741 11$LC=0.01273 19$MC=0.00295 5$NC+=0.000861 13                
+184AUS G NC=0.000726 11$OC=0.0001279 19$PC=6.63E-6 10                           
+184AU cG M         |a(K)exp<0.15 (2005Sa40).                                    
+184AU  G 185.8     1  12      2(E1)                    0.0866                   
+184AUS G KC=0.0709 10$LC=0.01215 17$MC=0.00282 4$NC+=0.000822 12                
+184AUS G NC=0.000693 10$OC=0.0001221 18$PC=6.36E-6 9                            
+184AU cG M         |a(K)exp<0.17 (2005Sa40).                                    
+184AU  L 301.86    16 (1-,2-,3-)                                               ?
+184AU  G 47.6      2  2.1     5M1                      11.39  22               ?
+184AUS G LC=8.75 17$MC=2.03 4$NC+=0.605 12                                      
+184AUS G NC=0.506 10$OC=0.0930 18$PC=0.00628 12                                 
+184AU cG M         |a(L1)exp=8 {I2}, |a(M1)exp=1.9 {I10} (2005Sa40).            
+184AU  G 59.0      2  5       1(E1)                    0.346  6                ?
+184AUS G LC=0.266 5$MC=0.0625 11$NC+=0.0178 3                                   
+184AUS G NC=0.0152 3$OC=0.00252 5$PC=9.26E-5 15                                 
+184AU cG M         L1 and L3 conversion electrons not observed (2005Sa40).      
+184AU  L 306.90    12 (1)+                                                      
+184AU  E                1.5  4    5.4  15  5.32  12             6.9       19    
+184AUS E EAV=1191 11$CK=0.638 4$CL=0.1109 7$CM+=0.03550 22                      
+184AU  G 220.4     1  26      3M1                      0.775                    
+184AUS G KC=0.638 9$LC=0.1059 15$MC=0.0245 4$NC+=0.00732 11                     
+184AUS G NC=0.00612 9$OC=0.001125 16$PC=7.61E-5 11                              
+184AU cG M         |a(K)exp=0.54 {I12}, (|a(L1)exp+|a(L2)exp)=0.11 {I3}         
+184AUxcG (2005Sa40).                                                            
+184AU  G 238.4     2  180    30M1                      0.624                    
+184AUS G KC=0.513 8$LC=0.0851 12$MC=0.0197 3$NC+=0.00588 9                      
+184AUS G NC=0.00491 7$OC=0.000904 13$PC=6.11E-5 9                               
+184AU cG M         |a(K)exp=0.46 {I11}, |a(L)exp=0.08 {I2}, |a(M)exp=0.02 {I1}  
+184AUxcG (2005Sa40).                                                            
+184AU  L 320.50    10 2+               2 NS      LT                             
+184AU cL T         from |g delayed coin (1978Ne10).                             
+184AU  G 92.0      1  53      6E1                      0.511                    
+184AUS G KC=0.407 6$LC=0.0794 12$MC=0.0185 3$NC+=0.00533 8                      
+184AUS G NC=0.00453 7$OC=0.000774 11$PC=3.33E-5 5                               
+184AU cG           E|g=91.5 {I5}, I|g=47 {I8} (1978Ne10).                       
+184AU cG M         |a(L1)exp|<0.1, |a(L3)exp|<0.05 (2005Sa40).                  
+184AU  L 331.40     8 1+,2+                                                     
+184AU  G 244.8     2  9       2[M1,E2]                 0.39   20                
+184AUS G KC=0.29 19$LC=0.073 6$MC=0.0177 7$NC+=0.0052 3                         
+184AUS G NC=0.00439 19$OC=0.00077 8$PC=3.4E-5 23                                
+184AU  G 259.5     1  86     10M1                      0.494                    
+184AUS G KC=0.406 6$LC=0.0672 10$MC=0.01558 22$NC+=0.00465 7                    
+184AUS G NC=0.00388 6$OC=0.000714 10$PC=4.83E-5 7                               
+184AU cG M         |a(K)exp=0.39 {I7}, (|a(L1)exp+|a(L2)exp)=0.06 {I7}          
+184AU2cG (2005Sa40); |a(K)exp|?0.25 (1970FiZZ).                                 
+184AU cG           E|g=259.0 {I1}, I|g=84 {I10} (1978Ne10).                     
+184AU  G 262.9     1  62      8M1                      0.476                    
+184AUS G KC=0.392 6$LC=0.0649 10$MC=0.01503 22$NC+=0.00448 7                    
+184AUS G NC=0.00375 6$OC=0.000689 10$PC=4.66E-5 7                               
+184AU cG M         |a(K)exp=0.38 {I7}, (|a(L1)exp+|a(L2)exp)=0.07 {I2}          
+184AU2cG (2005Sa40); |a(K)exp|?0.25 (1970FiZZ).                                 
+184AU cG           E|g=262.3 {I1}, I|g=67 {I8} (1978Ne10).                      
+184AU  L 364.19     9 1+                                                        
+184AU  E               0.74  21   2.9  8   5.58  12             3.6       10    
+184AUS E EAV=1166 11$CK=0.647 4$CL=0.1125 7$CM+=0.03601 22                      
+184AU  G 277.7     2  15      3M1                      0.410                    
+184AUS G KC=0.337 5$LC=0.0558 8$MC=0.01292 19$NC+=0.00385 6                     
+184AUS G NC=0.00322 5$OC=0.000592 9$PC=4.01E-5 6                                
+184AU cG M         |a(K)exp=0.37 {I9}, (|a(L1)exp+|a(L2)exp)=0.04 {I2}          
+184AUxcG (2005Sa40).                                                            
+184AU  G 295.7     1  100    15M1                      0.345                    
+184AUS G KC=0.284 4$LC=0.0469 7$MC=0.01087 16$NC+=0.00324 5                     
+184AUS G NC=0.00271 4$OC=0.000498 7$PC=3.38E-5 5                                
+184AU cG M         |a(K)exp=0.28 {I8}, (|a(L1)exp+|a(L2)exp)=0.08 {I3}          
+184AUxcG (2005Sa40).                                                            
+184AU cG           E|g=295.1 {I1}, I|g=160 {I20} (1978Ne10), |a(K)exp=0.04 {I2} 
+184AU2cG (1970FiZZ) for line which may be a 294.8|g+295.7|g doublet.            
+184AU  L 381.50     9 1+,2+                                                     
+184AU  G 50.1      1  7       1M1                      9.80                     
+184AUS G LC=7.53 12$MC=1.75 3$NC+=0.521 8                                       
+184AUS G NC=0.435 7$OC=0.0800 13$PC=0.00540 9                                   
+184AU cG M         |a(L1)exp=8.5 {I15}, |a(L1)exp:|a(L2)exp=1.00:0.13 {I2}      
+184AUxcG (2005Sa40).                                                            
+184AU  G 74.5      2  33      4M1                      3.07                 @   
+184AUS G LC=2.36 4$MC=0.547 9$NC+=0.163 3                                       
+184AUS G NC=0.1362 22$OC=0.0250 4$PC=0.00169 3                                  
+184AU cG RI        from |g|g coin; I|g=40 {I4} for doublet (2005Sa40).          
+184AU cG M         |a(L1)exp=2.4 {I4}, M1:M2:M3=1.00:0.21:0.09 (2005Sa40) for   
+184AU2cG doublet dominated by this transition.                                  
+184AU  G 127.3     2  27      4E1                      0.225                    
+184AUS G KC=0.182 3$LC=0.0330 5$MC=0.00768 12$NC+=0.00223 4                     
+184AUS G NC=0.00188 3$OC=0.000327 5$PC=1.552E-5 23                              
+184AU cG M         |a(K)exp|<0.4, |a(L3)exp|<0.1 (2005Sa40).                    
+184AU  G 138.5     2  6       2M1                      2.86                     
+184AUS G KC=2.35 4$LC=0.393 6$MC=0.0912 14$NC+=0.0272 4                         
+184AUS G NC=0.0227 4$OC=0.00418 7$PC=0.000282 5                                 
+184AU cG M         |a(K)exp=2.9 {I8} (2005Sa40).                                
+184AU  G 294.8     3  20      6(M1)                    0.348                    
+184AUS G KC=0.287 4$LC=0.0473 7$MC=0.01096 16$NC+=0.00327 5                     
+184AUS G NC=0.00273 4$OC=0.000502 8$PC=3.40E-5 5                                
+184AU cG M         |a(K)exp=0.30 {I15} (2005Sa40).                              
+184AU cG           See comment on 295.7|g.                                      
+184AU  G 313.1     2  33      5M1                      0.296                    
+184AUS G KC=0.243 4$LC=0.0401 6$MC=0.00929 14$NC+=0.00277 4                     
+184AUS G NC=0.00231 4$OC=0.000426 6$PC=2.89E-5 4                                
+184AU cG M         |a(K)exp=0.22 {I6}, (|a(L1)exp+|a(L2)exp)=0.05 {I2}          
+184AUxcG (2005Sa40).                                                            
+184AU  L 409.70    22                                                           
+184AU  E               0.051 22  0.21  9   6.71  19             0.26      11    
+184AUS E EAV=1145 11$CK=0.654 4$CL=0.1138 7$CM+=0.03642 22                      
+184AU  G  181.3     2 6       2 E1,E2                  0.31   22                
+184AUS G KC=0.15 8$LC=0.12 12$MC=0.03 3$NC+=0.010 9                             
+184AU cG M         |a(K)exp<0.3 (2005Sa40) implies mult=E1,E2.                  
+184AU  L 477.34    19 (LE3)+                                                    
+184AU  E               0.33  7    1.5  3   5.85  10             1.8       4     
+184AUS E EAV=1115 11$CK=0.664 4$CL=0.1156 7$CM+=0.03701 21                      
+184AU  G 234.5     3  22      5(M1+E2)                 0.44   22                
+184AUS G KC=0.33 22$LC=0.084 5$MC=0.0205 4$NC+=0.00600 18                       
+184AUS G NC=0.00508 10$OC=0.00089 7$PC=4.E-5 3                                  
+184AU cG M         |a(K)exp=0.3 {I2}, |a(L)exp<0.1 (2005Sa40).                  
+184AU  G 348.2     2  18      3M1                      0.222                    
+184AUS G KC=0.183 3$LC=0.0300 5$MC=0.00695 10$NC+=0.00207 3                     
+184AUS G NC=0.001732 25$OC=0.000319 5$PC=2.16E-5 3                              
+184AU cG M         |a(K)exp=0.17 {I5}, K/L|?5.6 (2005Sa40).                     
+184AU  L 486.10    22 LE3+                                                      
+184AU  E               0.20  9    0.9  4   6.06  20             1.1       5     
+184AUS E EAV=1111 11$CK=0.665 4$CL=0.1158 7$CM+=0.03709 21                      
+184AU  G 104.6     2  2.8     6M1                      6.38                     
+184AUS G KC=5.23 8$LC=0.880 14$MC=0.204 3$NC+=0.0609 10                         
+184AUS G NC=0.0509 8$OC=0.00936 14$PC=0.000632 10                               
+184AU cG M         |a(K)exp=6.8 {I20}, |a(L1)exp=1.3 {I6} (2005Sa40).           
+184AU  G 184.1     2  3       1M2                      6.76                    ?
+184AUS G KC=4.94 8$LC=1.373 20$MC=0.340 5$NC+=0.1019 15                         
+184AUS G NC=0.0855 13$OC=0.01546 23$PC=0.000925 14                              
+184AU cG M         |a(K)exp=6 {I2}, (|a(L1)exp+|a(L2)exp)=1.7 {I8} (2005Sa40).  
+184AU  L 490.91     7  1+                  2 NS  LT                             
+184AU cL T         from |g delayed coin (1978Ne10).                             
+184AU  E                11   1    47   6   4.33   6             58         7    
+184AUS E EAV=1109 11$CK=0.666 4$CL=0.1160 7$CM+=0.03713 21                      
+184AU  G  109.4     1 15      3 M1(+E0)                18     AP                
+184AU cG M         |a(K)exp=14 {I4}, |a(L1)exp=2.3 {I5} (2005Sa40).             
+184AU2cG |a(K)=4.78 {I15}; |a(L)=0.802 {I24}; |a(M)=0.186 {I6}; |a(N+..)=0.0593 
+184AUxcG {I18} if pure M1.                                                      
+184AU cG CC        approximate value; from |a(K)exp x 1.3.                      
+184AU  G 126.7     1  13      3M1(+E2)                 2.8    9                 
+184AUS G KC=1.8 13$LC=0.8 4$MC=0.21 9$NC+=0.060 25                              
+184AUS G NC=0.051 22$OC=0.009 4$PC=0.00021 16                                   
+184AU cG M         |a(K)exp=2.0 {I6}, (|a(L1)exp+|a(L2)exp)=0.62 {I15},         
+184AUxcG |a(L3)exp|<0.15 (2005Sa40).                                            
+184AU cG           E|g=126.5 {I3}, I|g=14 {I4} (1978Ne10).                      
+184AU  G 159.4     1  60      8M1                      1.92                     
+184AUS G KC=1.579 23$LC=0.264 4$MC=0.0611 9$NC+=0.0182 3                        
+184AUS G NC=0.01524 22$OC=0.00280 4$PC=0.000189 3                               
+184AU cG M         |a(K)exp=1.4 {I4}, (|a(L1)exp+|a(L2)exp)=0.27 {I6}           
+184AUxcG (2005Sa40).                                                            
+184AU cG           E|g=159.1 {I4}, I|g=60 {I10} (1978Ne10).                     
+184AU  G 170.3     1  24      4M1                      1.595                    
+184AUS G KC=1.310 19$LC=0.219 3$MC=0.0507 8$NC+=0.01511 22                      
+184AUS G NC=0.01263 18$OC=0.00232 4$PC=0.0001569 23                             
+184AU cG M         |a(K)exp=1.3 {I3} (2005Sa40).                                
+184AU cG           E|g=170.1 {I2}, I|g=21 {I3} (1978Ne10).                      
+184AU  G 236.7     1  1.00E3 10E1                      0.0476                   
+184AUS G KC=0.0391 6$LC=0.00652 10$MC=0.001509 22$NC+=0.000442 7                
+184AUS G NC=0.000372 6$OC=6.61E-5 10$PC=3.62E-6 5                               
+184AU cG M         |a(K)exp=0.04 {I1}, |a(L)exp=0.05 {I2} (2005Sa40);           
+184AUxcG |a(K)exp=0.07 {I3} (1970FiZZ).                                         
+184AU cG           E|g=236.2 {I2}, I|g=1000 (1978Ne10)                          
+184AU  G 248.0     2  9       3[M1,E2]                 0.37   19                
+184AUS G KC=0.28 18$LC=0.070 7$MC=0.0169 8$NC+=0.0050 3                         
+184AUS G NC=0.00420 22$OC=0.00073 8$PC=3.3E-5 23                                
+184AU  G  362.0     2 25     10 (M1)                   0.200                    
+184AUS G KC=0.1645 24$LC=0.0270 4$MC=0.00626 9$NC+=0.00186 3                    
+184AUS G NC=0.001559 22$OC=0.000287 4$PC=1.95E-5 3                              
+184AU cG M         |a(K)exp=0.16 {I8} (2005Sa40).                               
+184AU  G  404.7     2 22      3                                                 
+184AU  G  419.6     4 5       2                                                 
+184AU  G  422.7     2 42      6                                                 
+184AU cG           E|g=421.8 {I2}, I|g=59 {I7} (1978Ne10); may be               
+184AUxcG 419.6|g+422.7|g doublet.                                               
+184AU  L 600.60    22                                                          ?
+184AU  E               0.03  3   0.13  13   6.9   5             0.16      16   ?
+184AUS E EAV=1060 11$CK=0.681 4$CL=0.1189 7$CM+=0.03807 21                      
+184AU  G  372.2     2 9       2                                                ?
+                                                                                
+                                                                                
+                                                                                

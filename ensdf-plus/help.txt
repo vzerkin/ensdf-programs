@@ -1,0 +1,9 @@
+    +----------------------------------------------+
+    | Translation ENDSF file to Ensdf+ interpreted |
+    | by V.Zerkin, Vienna, 2015-2026, v.2026-02-05 |
+    +----------------------------------------------+
+ Run:
+    $ java [opt] ensdf2plus file.ens [params]
+ Examples:
+    $ java -cp s4tool.jar ensdf2plus aa.ens
+    $ java -cp s4tool.jar ensdf2plus aa.ens -o:aa.htm

@@ -1,0 +1,42 @@
+$ 
+$ ls -tgG
+total 664
+-rw-r--r-- 1  84565 Feb  5 17:15 s4tool.jar
+-rw-r--r-- 1    378 Feb  5 17:14 help.txt
+-rw-r--r-- 1 376314 Mar  8  2025 177LU.ens
+-rw-r--r-- 1 179820 Apr 25  2024 aa.ens
+-rw-r--r-- 1  29241 Dec 29  2015 a184.ens
+$ 
+$ java -cp s4tool.jar ensdf2plus a184.ens
+    +----------------------------------------------+
+    | Translation ENDSF file to Ensdf+ interpreted |
+    | by V.Zerkin, Vienna, 2015-2026, v.2026-02-05 |
+    +----------------------------------------------+
+...arg[0]=[a184.ens]
+.....inpEnsdfFile:[a184.ens]
+
+....e4outName:[a184.ens.htm]
+.....EnsdfFile:[a184.ens]
+					
+====MASS:  184
+====NUCID: 184AU			
+----1	   184AU DSID:184HG EC DECAY               Type:DECAY      #Ln=359 #Rec=54
+$ 
+$ ls -tgG
+total 840
+-rw-rw-r-- 1 171081 Feb  5 17:53 a184.ens.htm
+drwxrwxr-x 2   4096 Feb  5 17:53 a184.ens.htm-img
+drwxrwxr-x 2   4096 Feb  5 17:53 common
+-rw-r--r-- 1  84565 Feb  5 17:15 s4tool.jar
+-rw-r--r-- 1    378 Feb  5 17:14 help.txt
+-rw-r--r-- 1 376314 Mar  8  2025 177LU.ens
+-rw-r--r-- 1 179820 Apr 25  2024 aa.ens
+-rw-r--r-- 1  29241 Dec 29  2015 a184.ens
+$ date
+Thu Feb  5 05:53:45 PM CET 2026
+$ 
+$ firefox a184.ens.htm &
+[1] 95363
+[1]+  Done                    firefox a184.ens.htm
+$ 
+$ 

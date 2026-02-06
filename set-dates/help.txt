@@ -1,0 +1,30 @@
+   +-----------------------------------------+
+   |  Set modification time of ENSDF files   |
+   | from the latest update date of Datasets.|
+   |  Genarate summary and distribution of   |
+   |   ENSDF files and Datasets by years     |
+   +-----------------------------------------+
+   | Program: setdate2ensdf.sh, v.2025-12-07 |
+   |       /by V.Zerkin, Vienna, 2025/       |
+   +-----------------------------------------+
+
+----------------------Help----------------------
+Run:
+    $ [bash] [scriptdir]setdate2ensdf.sh [{options|files}]
+Options:
+   -c        show command setting new time
+   -o        show old timestamp of ENSDF file
+   -d:<day>  set day in a month (1-28)
+   -t:<time> set time, for example: -t:15:30:45
+   -help     display this text
+Files:
+    files  ENSDF file or files; e.g: dir1/ensdf.*
+    dir    dir with ENSDF backup files ensdf.???; e.g. ensdf_251201/
+Examples:
+    $ bash setdate2ensdf.sh
+    $ ./setdate2ensdf.sh --help
+    $ ~/bin/setdate2ensdf.sh ensdf_251103/ensdf.*
+    $ bash setdate2ensdf.sh ensdf.016 ensdf.100 ensdf.123
+    $ ~/bin/setdate2ensdf.sh ensdf.12?
+    $ setdate2ensdf.sh ensdf.00? -co -t:15:30:50 -d:5
+    $ bash setdate2ensdf.sh G:\ensdf\ensdf_251201
