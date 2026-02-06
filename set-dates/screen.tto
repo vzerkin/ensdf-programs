@@ -1,4 +1,4 @@
-$ setdate2ensdf.sh ensdf/ensdf_251201/ensdf.*
+$ setdate2ensdf.sh ensdf/ensdf_260101/ensdf.*
    +-----------------------------------------+
    |  Set modification time of ENSDF files   |
    | from the latest update date of Datasets.|
@@ -14,10 +14,10 @@ $ setdate2ensdf.sh ensdf/ensdf_251201/ensdf.*
    Bash-ver: 5.1.16(1)-release
    Script:   /home/zerkin/bin/setdate2ensdf.sh
    Now Dir:  /home/zerkin
-   in-files: #300: dir=/home/zerkin/ensdf/ensdf_251201/ ensdf.001 ensdf.002 ensdf.003 ...
+   in-files: #300: dir=/home/zerkin/ensdf/ensdf_260101/ ensdf.001 ensdf.002 ensdf.003 ...
    out-tmp:  /tmp/datasets
    DayTime:  011200.00 # DDHHMM.SS
----Start:    2026-02-06,16:39:54
+---Start:    2026-02-06,16:13:28
    1  ensdf.001  [200601-200601]  size:54603    lines:683    datasets:9    
    2  ensdf.002  [200309-200309]  size:8833     lines:113    datasets:4    
    3  ensdf.003  [201512-202205]  size:72998    lines:918    datasets:17   
@@ -318,8 +318,8 @@ $ setdate2ensdf.sh ensdf/ensdf_251201/ensdf.*
  298  ensdf.298  [201902-201902]  size:4700     lines:60     datasets:2    
  299  ensdf.299  [202205-202205]  size:1054     lines:14     datasets:1    
  300  ensdf.300  [201902-201902]  size:1621     lines:21     datasets:1    
----Finish:   2026-02-06,16:46:53
----Program successfully completed---------------------------06:59=419sec
+---Finish:   2026-02-06,16:23:19
+---Program successfully completed---------------------------09:51=591sec
 
 -------Summary of ENSDF files-------
   Files:       300
